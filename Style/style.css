@@ -1,0 +1,147 @@
+body {
+    background: black;
+    color: white;
+}
+
+.profile-image {
+    width:  300px;
+    height: 300px;
+    border-radius: 60%;
+}
+
+.main-content {
+    margin: 0 auto;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.social-media {
+    margin: 20px 0;
+}
+
+.social-media .twitter {
+    padding: 0 25px;
+}
+
+.about-me{
+    gap: 10%;
+    justify-content: space-between;
+    width: 100%;
+    text-align: center;
+    display: flex;
+}
+
+.about-title  .about-content {
+    width: 50%;
+}
+
+.content {
+    text-align: center;
+}
+
+.chat-now {
+    display: flex;
+    align-items: center;
+    gap: 2%;
+    margin: 0 50px;
+}
+.bio {
+    color: pink;
+    font-size: 50px;
+}
+.margin {
+    margin: 7% 0;
+}
+.jemma {
+    color: pink;
+}
+.one {
+    font-size: 50px;
+    color: pink;
+    font-weight: 900;
+    margin: 0 50px;
+}
+.number{
+    font-size: 50px;
+    font-weight: 900;
+}
+.portfolio {
+    color: pink;
+}
+.image {
+   margin: 7% 0;
+   display: flex;
+}
+.third {
+    margin: 0 20px;
+    border-radius: 10%;
+}
+.first {
+    border-radius: 10%;
+}
+.second {
+    border-radius: 10%;
+}
+.batch {
+    margin: 7% 0;
+}
+.fifth {
+    margin: 0 10px;
+    border-radius: 10%;
+}
+.forth {
+    border-radius: 10%;
+}
+.sixth {
+    border-radius: 10%;
+}
+.learn{
+    background: black;
+    color: white;
+    padding: 20px 60px;
+    font-size: large;
+}
+.texts {
+    gap: 10%;
+    justify-content: space-between;
+    width: 100%;
+    margin: 7% 0;
+    display: flex;
+}
+.table {
+    color: pink;
+    margin: 0 50px;
+    margin: 7% 0;
+}
+.collaborate {
+    color: pink;
+}
+.dwelling {
+    color: pink;
+    margin: 0 50px;
+}
+.security {
+    font-size: 50px;
+    color: pink;
+    font-weight: 900;
+}
+.phone {
+    align-items: center;
+    gap: 2%;
+}
+.article {
+    text-align: center;
+    margin: 0 50px;
+}
+.principal {
+    margin: 0 50px;
+}
+.life {
+    margin: 0 50px;
+    margin: 7% 0;
+}
+.fate {
+    margin: 0 50px;
+}
